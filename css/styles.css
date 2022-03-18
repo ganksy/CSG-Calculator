@@ -1,0 +1,36 @@
+*{
+  background-color: black;
+}
+
+a{
+  color: tan;
+}
+
+.topmenu{
+  font-size: 150%;
+}
+.phonepic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 200px;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  margin:1em 5em 2em;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(206, 206, 206);
+  font-size: large;
+}
+
+h1{
+  text-align: center;
+  font-size: 500%;
+}
+
