@@ -1,9 +1,9 @@
 *{
-  background-color: black;
+  background-color: rgb(20, 20, 20);
 }
 
 a{
-  color: tan;
+  color:darkorange;
 }
 
 .topmenu{
@@ -16,21 +16,19 @@ a{
   height: 200px;
 }
 
-.center{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 body {
   margin:1em 5em 2em;
-  font-family: 'Courier New', Courier, monospace;
-  color: rgb(206, 206, 206);
+  font-family: 'DejaVu Sans','Courier New', Courier, monospace;
+  color: antiquewhite;
   font-size: large;
 }
 
 h1{
+  color: white;
   text-align: center;
   font-size: 500%;
 }
 
+h2{
+  color: white;
+}
